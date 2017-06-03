@@ -17,4 +17,5 @@ NOTE: If the Steam is running in administrator mode, the program should also be 
 # Usage
 Copy the executable to the folder of Metro 2033 Redux or Metro Last Light Redux and always launch the game through the launcher. You can create shortcuts if you want.
 
+NOTE: The executable must be inside the game folder!
 NOTE: Steam must be open to play, if not, it will automatically open due to the protocols of the games themselves.
